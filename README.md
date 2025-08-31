@@ -27,6 +27,7 @@ Este es un curso completo y estructurado de JavaScript que te llevará desde los
 curso_Js/
 ├── README.md                    # Este archivo - Visión general del curso
 ├── INDICE_COMPLETO.md          # Índice detallado de todos los módulos
+├── NAVEGACION_RAPIDA.md        # Navegación rápida a todos los módulos
 ├── junior_1/                   # Módulo 1: Fundamentos de JavaScript
 ├── junior_2/                   # Módulo 2: Funciones y Scope
 ├── junior_3/                   # Módulo 3: DOM y Eventos
@@ -38,6 +39,26 @@ curso_Js/
 ├── senior_3/                   # Módulo 9: Testing Avanzado y E2E
 └── senior_4/                   # Módulo 10: DevOps y Deployment
 ```
+
+## 🗂️ Navegación Rápida
+
+### 🚀 Nivel Junior
+- **[Módulo 1: Fundamentos de JavaScript](junior_1/README.md)** - Variables, tipos de datos, operadores
+- **[Módulo 2: Funciones y Scope](junior_2/README.md)** - Funciones, scope, closures básicos
+- **[Módulo 3: DOM y Eventos](junior_3/README.md)** - Manipulación del DOM, eventos
+
+### 🔧 Nivel Mid-Level
+- **[Módulo 4: Programación Asíncrona](midLevel_1/README.md)** - Promesas, async/await, callbacks
+- **[Módulo 5: ES6+ y Características Modernas](midLevel_2/README.md)** - Módulos, destructuring, clases
+- **[Módulo 6: Testing y Debugging](midLevel_3/README.md)** - Jest, debugging, testing
+
+### 🎯 Nivel Senior
+- **[Módulo 7: Arquitectura y Patrones Avanzados](senior_1/README.md)** - Patrones de diseño, SOLID
+- **[Módulo 8: Performance y Optimización](senior_2/README.md)** - Profiling, optimización
+- **[Módulo 9: Testing Avanzado y E2E](senior_3/README.md)** - Testing de integración, E2E
+- **[Módulo 10: DevOps y Deployment](senior_4/README.md)** - CI/CD, Docker, deployment
+
+**📚 [Ver Índice Completo](INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](NAVEGACION_RAPIDA.md)**
 
 ## 🔧 Prerrequisitos
 

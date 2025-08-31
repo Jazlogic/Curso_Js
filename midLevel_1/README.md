@@ -1167,3 +1167,11 @@ cliente-api-rest/
 **¡Completa todos los ejercicios y el proyecto integrador antes de continuar al siguiente módulo!** 🚀
 
 *El siguiente módulo cubrirá ES6+ y Características Modernas, donde aprenderás las últimas características del lenguaje.*
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 3: DOM y Eventos](../junior_3/README.md)
+- **➡️ Siguiente**: [Módulo 5: ES6+ y Características Modernas](../midLevel_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---

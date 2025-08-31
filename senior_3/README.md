@@ -723,3 +723,11 @@ app-ultra-optimizada/
 ---
 
 **Nota**: Este módulo establece las bases para optimización profesional de performance en JavaScript, preparando al estudiante para aplicaciones web de alta calidad.
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 8: Testing Avanzado y E2E](../senior_2/README.md)
+- **➡️ Siguiente**: [Módulo 10: DevOps y Deployment](../senior_4/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---

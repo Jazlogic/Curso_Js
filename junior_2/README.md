@@ -597,3 +597,11 @@ gestor-tareas/
 **¡Completa todos los ejercicios y el proyecto integrador antes de continuar al siguiente módulo!** 🚀
 
 *El siguiente módulo cubrirá DOM y Eventos, donde aprenderás a interactuar con el navegador web.*
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 1: Fundamentos de JavaScript](../junior_1/README.md)
+- **➡️ Siguiente**: [Módulo 3: DOM y Eventos](../junior_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---

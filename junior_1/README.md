@@ -430,3 +430,11 @@ calculadora/
 **¡Completa todos los ejercicios y el proyecto integrador antes de continuar al siguiente módulo!** 🚀
 
 *El siguiente módulo cubrirá Funciones y Scope, donde aprenderás a crear código reutilizable y modular.*
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [🏠 Página Principal](../README.md)
+- **➡️ Siguiente**: [Módulo 2: Funciones y Scope](../junior_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---

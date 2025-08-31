@@ -774,3 +774,11 @@ framework-arquitectura/
 ---
 
 **Nota**: Este módulo establece las bases para arquitectura empresarial en JavaScript, preparando al estudiante para sistemas complejos y escalables.
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 6: Testing y Debugging](../midLevel_3/README.md)
+- **➡️ Siguiente**: [Módulo 8: Performance y Optimización](../senior_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---

@@ -993,3 +993,11 @@ suite-testing-completa/
 ---
 
 **Nota**: Este módulo establece las bases para testing profesional avanzado en JavaScript, preparando al estudiante para calidad de software empresarial.
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 7: Arquitectura y Patrones Avanzados](../senior_1/README.md)
+- **➡️ Siguiente**: [Módulo 9: Testing Avanzado y E2E](../senior_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---

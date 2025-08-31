@@ -468,3 +468,11 @@ sistema-gestion-datos/
 ---
 
 **Nota**: Este módulo establece las bases para el desarrollo moderno de JavaScript, preparando al estudiante para trabajar con frameworks y librerías contemporáneas.
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 4: Programación Asíncrona](../midLevel_1/README.md)
+- **➡️ Siguiente**: [Módulo 6: Testing y Debugging](../midLevel_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---

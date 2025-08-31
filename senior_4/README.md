@@ -1197,3 +1197,11 @@ pipeline-cicd-completo/
 ---
 
 **Nota**: Este módulo establece las bases para DevOps profesional en JavaScript, preparando al estudiante para deployment y operaciones en producción.
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 9: Performance y Optimización](../senior_3/README.md)
+- **➡️ Siguiente**: [🏠 Página Principal](../README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---

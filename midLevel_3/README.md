@@ -583,3 +583,11 @@ biblioteca-utilidades/
 ---
 
 **Nota**: Este módulo establece las bases para testing profesional en JavaScript, preparando al estudiante para desarrollo de calidad empresarial.
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 5: ES6+ y Características Modernas](../midLevel_2/README.md)
+- **➡️ Siguiente**: [Módulo 7: Arquitectura y Patrones Avanzados](../senior_1/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---

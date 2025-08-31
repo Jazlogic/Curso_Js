@@ -881,3 +881,11 @@ galeria-imagenes/
 **¡Completa todos los ejercicios y el proyecto integrador antes de continuar al siguiente módulo!** 🚀
 
 *El siguiente módulo cubrirá Programación Asíncrona, donde aprenderás a manejar operaciones no bloqueantes y APIs.*
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 2: Funciones y Scope](../junior_2/README.md)
+- **➡️ Siguiente**: [Módulo 4: Programación Asíncrona](../midLevel_1/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
