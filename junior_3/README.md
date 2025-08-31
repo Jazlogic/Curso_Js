@@ -1,5 +1,13 @@
 # 🚀 Módulo 3: DOM y Eventos
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 2: Funciones y Scope](../junior_2/README.md)
+- **➡️ Siguiente**: [Módulo 4: Programación Asíncrona](../midLevel_1/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 Descripción del Módulo
 
 Este módulo te introduce al Document Object Model (DOM) y al sistema de eventos de JavaScript. Aprenderás a manipular elementos HTML dinámicamente, crear contenido interactivo y responder a las acciones del usuario. El DOM es la interfaz entre JavaScript y el HTML, permitiendo crear aplicaciones web dinámicas y responsivas.

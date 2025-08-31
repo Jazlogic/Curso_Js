@@ -1,4 +1,12 @@
-# 🚀 Módulo 4: Programación Asíncrona
+# 🔧 Módulo 4: Programación Asíncrona
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 3: DOM y Eventos](../junior_3/README.md)
+- **➡️ Siguiente**: [Módulo 5: ES6+ y Características Modernas](../midLevel_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
 
 ## 📚 Descripción del Módulo
 

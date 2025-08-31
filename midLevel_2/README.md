@@ -1,3 +1,13 @@
+# 🔧 Módulo 5: ES6+ y Características Modernas
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 4: Programación Asíncrona](../midLevel_1/README.md)
+- **➡️ Siguiente**: [Módulo 6: Testing y Debugging](../midLevel_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 # Módulo 5: ES6+ y Características Modernas
 
 ## Descripción del Módulo

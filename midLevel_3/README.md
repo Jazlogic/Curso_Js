@@ -1,3 +1,13 @@
+# 🔧 Módulo 6: Testing y Debugging
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 5: ES6+ y Características Modernas](../midLevel_2/README.md)
+- **➡️ Siguiente**: [Módulo 7: Arquitectura y Patrones Avanzados](../senior_1/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 # Módulo 6: Testing y Debugging
 
 ## Descripción del Módulo

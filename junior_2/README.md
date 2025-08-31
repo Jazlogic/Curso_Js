@@ -1,5 +1,13 @@
 # 🚀 Módulo 2: Funciones y Scope
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 1: Fundamentos de JavaScript](../junior_1/README.md)
+- **➡️ Siguiente**: [Módulo 3: DOM y Eventos](../junior_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 Descripción del Módulo
 
 Este módulo profundiza en las funciones de JavaScript, el concepto de scope y los closures. Aprenderás a crear código reutilizable, modular y bien estructurado. Las funciones son el corazón de la programación en JavaScript y entender cómo funcionan es fundamental para escribir código profesional.

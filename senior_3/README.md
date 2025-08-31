@@ -1,3 +1,13 @@
+# 🎯 Módulo 9: Testing Avanzado y E2E
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 8: Performance y Optimización](../senior_2/README.md)
+- **➡️ Siguiente**: [Módulo 10: DevOps y Deployment](../senior_4/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 # Módulo 9: Performance y Optimización
 
 ## Descripción del Módulo
@@ -726,7 +736,7 @@ app-ultra-optimizada/
 
 ## 🧭 Navegación del Curso
 
-- **⬅️ Anterior**: [Módulo 8: Testing Avanzado y E2E](../senior_2/README.md)
+- **⬅️ Anterior**: [Módulo 8: Performance y Optimización](../senior_2/README.md)
 - **➡️ Siguiente**: [Módulo 10: DevOps y Deployment](../senior_4/README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 

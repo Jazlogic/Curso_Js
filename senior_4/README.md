@@ -1,3 +1,13 @@
+# 🎯 Módulo 10: DevOps y Deployment
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 9: Testing Avanzado y E2E](../senior_3/README.md)
+- **➡️ Siguiente**: [🏠 Página Principal](../README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 # Módulo 10: DevOps y Deployment
 
 ## Descripción del Módulo

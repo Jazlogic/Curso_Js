@@ -1,5 +1,13 @@
 # 🚀 Módulo 1: Fundamentos de JavaScript
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [🏠 Página Principal](../README.md)
+- **➡️ Siguiente**: [Módulo 2: Funciones y Scope](../junior_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 Descripción del Módulo
 
 Este módulo te introduce a los conceptos fundamentales de JavaScript. Aprenderás sobre variables, tipos de datos, operadores, estructuras de control, arrays y objetos básicos. Estos son los bloques de construcción esenciales para cualquier aplicación JavaScript.

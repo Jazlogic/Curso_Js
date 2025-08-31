@@ -1,3 +1,13 @@
+# 🎯 Módulo 8: Performance y Optimización
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 7: Arquitectura y Patrones Avanzados](../senior_1/README.md)
+- **➡️ Siguiente**: [Módulo 9: Testing Avanzado y E2E](../senior_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 # Módulo 8: Testing Avanzado y E2E
 
 ## Descripción del Módulo
@@ -926,7 +936,7 @@ Desarrolla una suite completa de testing que cubra todos los aspectos de testing
 - **Testing E2E**: Suite completa con Cypress
 - **Performance Testing**: Tests de rendimiento y carga
 - **API Testing**: Mocking avanzado con MSW
-- **Accesibilidad**: Tests completos de accesibilidad
+- **Accesibilidad**: Verificación de estándares WCAG
 - **Seguridad**: Tests de vulnerabilidades
 
 ### Estructura del Proyecto
